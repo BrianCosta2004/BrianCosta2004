@@ -5,7 +5,7 @@
 **- 🌱 Estudante de Python, ReactJS, React-Native,...**
 
 <div align="center">
-  <a href="https://github.com/jp-bueno">
+  <a href="https://github.com/BrianCosta2004">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=BrianCosta2004&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianCosta2004&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
@@ -13,7 +13,6 @@
 ##
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="JP-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/python-plain.svg" />
   <img align="center" alt="JP-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="JP-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="JP-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
