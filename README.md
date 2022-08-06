@@ -18,9 +18,10 @@
   <img align="center" alt="JP-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="JP-Jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img align="center" alt="JP-Pycharm" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+  <img align="center" alt="JP-Anaconda" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
   <img align="right" src="https://cdn.discordapp.com/attachments/973288624676286474/981945953340751912/rick-ashley-dance.gif">
  </div>
-          https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg
+         
 ##
 
 <div>
