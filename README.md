@@ -2,7 +2,7 @@
 
 **- 🕷 Atualmente estou em busca de aprimoramento em back-end**
 
-**- 🌱 Estudante de Python, ReactJS, React-Native,...**
+**- 🌱 Estudante de Python, Django, Flask, Selenium, Pandas, Numpy,...**
 
 <div align="center">
   <a href="https://github.com/BrianCosta2004">
@@ -37,6 +37,6 @@
 <div>
   <a href="https://www.instagram.com/briancosta2004/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:brianhcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/brian-costa-a39b34217" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/brian-costa-a39b34217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://steamcommunity.com/profiles/76561198812622877/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   </div>
