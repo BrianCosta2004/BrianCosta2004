@@ -1,6 +1,6 @@
 ## Eai! Eu sou o Brian.
 
-**- 🕷 Atualmente estou em busca de aprimoramento back-end**
+**- 🕷 Atualmente estou em busca de aprimoramento em back-end**
 
 **- 🌱 Estudante de Python, ReactJS, React-Native,...**
 
