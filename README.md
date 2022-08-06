@@ -16,7 +16,7 @@
   <img align="center" alt="JP-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="JP-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="JP-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="JP-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="JP-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img align="right" src="https://cdn.discordapp.com/attachments/973288624676286474/981945953340751912/rick-ashley-dance.gif">
  </div>
           
