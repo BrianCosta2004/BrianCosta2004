@@ -1,4 +1,4 @@
-## Eai! Eu sou o Brian.
+## Olá! Eu sou o Brian.
 
 **- 🕷 Atualmente estou em busca de aprimoramento em back-end**
 
