@@ -2,7 +2,9 @@
 
 **- 💻 Atualmente estou em busca de aprimoramento em back-end**
 
-**- 📚 Estudante de Python, Django, Flask, Selenium, Pandas, Numpy,...**
+**- 📚 Estudante de 🐍Python🐍: Django - Flask - Selenium - Pandas - Numpy - (Entre outras bibliotecas)**
+
+**- ❤️ Web - Ciência de Dados - Automação**
 
 <div align="center">
   <a href="https://github.com/BrianCosta2004">
