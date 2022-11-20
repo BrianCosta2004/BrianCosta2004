@@ -2,7 +2,7 @@
 
 **- 💻 Atualmente estou em busca de aprimoramento em back-end**
 
-**- 📚 Estudante de 🐍Python🐍: Django - Flask - Selenium - Pandas - Numpy - (Entre outras bibliotecas)**
+**- 📚 Estudante de Python🐍: Django - Flask - Selenium - Pandas - Numpy - (Entre outras bibliotecas)**
 
 **- ❤️ Web - Ciência de Dados - Automação**
 
