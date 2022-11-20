@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Brian.
 
-**- 👨‍💻 Atualmente estou em busca de aprimoramento em back-end**
+**- 💻 Atualmente estou em busca de aprimoramento em back-end**
 
 **- 📚 Estudante de Python, Django, Flask, Selenium, Pandas, Numpy,...**
 
