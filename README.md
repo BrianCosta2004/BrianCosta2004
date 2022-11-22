@@ -6,6 +6,8 @@
 
 **- ❤️ Web - Ciência de Dados - Automação**
 
+![]https://visitor-badge.glitch.me/badge?page_id=BrianCosta2004
+
 <div align="center">
   <a href="https://github.com/BrianCosta2004">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianCosta2004&layout=compact&langs_count=10&theme=dracula"/>
