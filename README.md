@@ -6,7 +6,7 @@
 
 **- ❤️ Web - Ciência de Dados - Automação**
 
-![]https://visitor-badge.glitch.me/badge?page_id=BrianCosta2004
+<img src="https://visitor-badge.glitch.me/badge?page_id=BrianCosta2004">
 
 <div align="center">
   <a href="https://github.com/BrianCosta2004">
