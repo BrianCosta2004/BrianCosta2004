@@ -2,7 +2,7 @@
 
 **- 💻 Python Developer 🐍**
 
-**- 📚 Django - Flask - Selenium - Pandas - Numpy**
+**- 📚 Django - Flask - Selenium - Pandas**
 
 **- ❤️ Web - Data Science - Automation**
 
