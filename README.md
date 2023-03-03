@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Brian.
 
-**- 💻 Atualmente estou em busca de aprimoramento em back-end**
+**- 💻 Python Developer 🐍**
 
-**- 📚 Estudante de Python🐍: Django - Flask - Selenium - Pandas - Numpy - (Entre outras bibliotecas)**
+**- 📚 Django - Flask - Selenium - Pandas - Numpy **
 
-**- ❤️ Web - Ciência de Dados - Automação**
+**- ❤️ Web - Data Science - Automation**
 
 <div align="center">
   <a href="https://github.com/BrianCosta2004">
