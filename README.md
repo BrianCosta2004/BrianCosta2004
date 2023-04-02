@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Brian.
 
-**- 💻 Python Developer 🐍**
+**- 💻 Python Developer**
 
 **- 📚 Django - Flask - Selenium - Pandas**
 
